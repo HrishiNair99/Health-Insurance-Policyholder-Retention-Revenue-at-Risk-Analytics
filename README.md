@@ -1,4 +1,4 @@
-##**Health Insurance Policyholder Retention & Revenue-at-Risk Analytics**
+#Health Insurance Policyholder Retention & Revenue-at-Risk Analytics
 
 Project Overview
 An end-to-end data analytics project built on a health insurance customer dataset, focused on identifying policyholders at risk of lapsing, quantifying revenue at risk, and evaluating campaign effectiveness. The project covers the full analytics pipeline from data augmentation and cleaning through to SQL analysis, exploratory data analysis, risk scoring, campaign ROI calculation, and an executive Power BI dashboard.
